@@ -1,0 +1,92 @@
+body{
+    padding-top: 70px;
+}
+.skip-navigation {
+.sr-only();
+.sr-only-focusable();
+}
+.glyphicon-home{
+    padding-right:  5px;;
+}
+.fa-shopping-cart, .fa-globe, .fa-eur, .glyphicon-thumbs-up, .glyphicon-user, .glyphicon-comment, .glyphicon-certificate, .glyphicon-phone-alt, .glyphicon-cog {
+    padding-right:  5px;
+}
+/* Réglage du fil d'arriane dans le menu ! */
+.breadcrumb {
+    float: left;
+    margin: 7px 10px;
+}
+/* Reglage du boutton du contenus des plant tarifére */
+.content button {
+    margin-left: 25px;
+}
+/* desendre la citation dnas la page A propos */
+.header blockquote{
+    margin-top: 30px;
+}
+/* Je donne une taille au photos sur l'index du site */
+.colection, .fabrique, .box{
+    height: 250px;
+    width: 250px;
+    margin: 0 auto;
+}
+/* Les photos */
+.colection{
+    background: url(../../img/photos/477019_128827590578139_760058725_o.jpg) center;
+    background-size: cover;
+}
+.fabrique{
+    background: url(../../img/photos/338363_227433850717512_901658656_o.jpg) center;
+    background-size: cover;
+}
+.box{
+    background: url(../../img/photos/265598_227432830717614_14590094_o.jpg) center;
+    background-size: cover;
+
+}
+/* Un rendu des photos dans la page offres*/
+.mini{
+    height: 100px;
+    width: 100px;
+}
+/* Je desend mon boutton dans la page offres  */
+.well p{
+    margin-top: 10px;
+}
+/* diférent réglare de la page offres */
+.content h3{
+    position: relative;
+    left: 50px;
+}
+.bouton{
+    position: relative;
+    right: 30px;
+}
+.boutons{
+    margin-top: 10px;
+}
+.color{
+    color: #FFFFFF;
+}
+.well .creer{
+    width: 600px;
+
+}
+.well .modalle{
+    margin-top: 20px;
+}
+address, .thumbnail {
+    width: 150px;
+}
+.formulaire input{
+    margin-bottom: 20px;
+}
+.formulaire .btn-success{
+    margin-top: 20px;
+}
+.container .footer {
+    margin-top: 20px;
+}
+.menus{
+    margin-right: 20px;
+}
